@@ -1,7 +1,7 @@
 {
   "name": "portofolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "- Install Visual Studio Code https://code.visualstudio.com/\r - Install GitHub Desktop https://desktop.github.com/\r - Read Tailwind Documentation https://tailwindcss.com/docs/installation\r - Install Visual Studio Code Extension:\r   - Live Server\r   - Live Preview\r   - Tailwind CSS IntelliSense",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
